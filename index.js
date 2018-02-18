@@ -3,4 +3,7 @@ var recipes = {
   dog: 'whateva'
 };
 
-function updateObjectWithKeyAndValue ()
+function updateObjectWithKeyAndValue (object, key, value)
+{
+  
+}
